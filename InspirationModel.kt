@@ -1,5 +1,5 @@
-package com.blogsetyaaji.dashboardislami.dashboard.model
+package com.razzaq.bitaqwaapp.dashboard.model
 
-data class InspirationModel(
+class InspirationModel(
     var inspirationImage: Int = 0
 )
